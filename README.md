@@ -11,7 +11,7 @@ The notebook for the batch regression and classification is : Batch_Regression_a
 
 The notebook for the online regression and classification is : Online_regression_River.ipynb
 
-The files for the application of Kafka are : 
+The files for the application of Kafka are : financial_dashboard, sentiment_analysis.py, ingest-tweets-stocks.py, consumer-stock-graph.py, consumer-stock-clean-polarity.py
 
 The results are presented in the notebooks and also in the slides of the presentation. 
 
