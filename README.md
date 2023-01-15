@@ -1,4 +1,4 @@
-# datastream_project
+# Streaming application for predictions of markets stocks
 This project is part of the lectures of Data Stream processing of the M2DS from IP Paris with École Polytechnique. 
 The authors of this project are : Quentin Lesbre, Lounes Guergous and Xavier Brouty. 
 
