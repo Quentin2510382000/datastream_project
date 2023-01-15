@@ -13,5 +13,5 @@ The notebook for the online regression and classification is : Online_regression
 
 The files for the application of Kafka are : 
 
-The results are presents in the notebooks and also in the slides of presentation. 
+The results are presented in the notebooks and also in the slides of the presentation. 
 
