@@ -3,7 +3,7 @@ This project is part of the lectures of Data Stream processing of the M2DS from 
 
 The authors of this project are : Quentin Lesbre, Lounes Guergous and Xavier Brouty. 
 
-In thisproject, the objective is to do a streaming application for predictions of markets stocks. 
+In this project, the objective is to do a streaming application for predictions of markets stocks. 
 We first started to do a batch regression to compare the results to the one from the online learning with River. 
 We also did an application of Kafka to have data from Twitter and do some sentimental analysis on stocks markets. 
 
