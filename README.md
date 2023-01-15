@@ -7,7 +7,7 @@ In this project, the objective is to do a streaming application for predictions 
 We first started to do a batch regression to compare the results to the one from the online learning with River. 
 We also did an application of Kafka to have data from Twitter and do some sentimental analysis on stocks markets. 
 
-The notebook for the batch regression and classification is : 
+The notebook for the batch regression and classification is : Batch_Regression_and_Classification.ipynb
 
 The notebook for the online regression and classification is : Online_regression_River.ipynb
 
