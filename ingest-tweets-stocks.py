@@ -15,9 +15,6 @@ consumer_secret='nh9mOkXK34f9yPPLksHSFrXm83wIPCUq15ttlUk4vU8X4x1ZSr'
 access_token='1271435978008408068-pbqBJvz4TVLMLMF3GOYS3AKHjtVhqN'
 access_token_secret='e41FvGyic7EeFNYJEzPOMVM7zsddtwQeD2qLbLtiJcLsu'
 
-import tweepy
-import json
-from kafka import KafkaConsumer, KafkaProducer
 
 
 #This code permit us to get all the tweets talking about the 5 stocks that we have selected
