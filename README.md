@@ -11,9 +11,11 @@ The notebook for the batch regression and classification is : Batch_Regression_a
 
 The notebook for the online regression and classification is : Online_regression_River.ipynb
 
-The files for the application of Kafka and the twitter api are : financial_dashboard, sentiment_analysis.py, ingest-tweets-stocks.py, consumer-stock-graph.py, consumer-stock-clean-polarity.py
+The files for the application of Kafka and the twitter api are : financial_dashboard.py, sentiment_analysis.py, ingest-tweets-stocks.py, consumer-stock-graph.py, consumer-stock-clean-polarity.py
 
 We have to notify that the file for the kafka application and the twitter api are only for the purpose of displaying graphics during the presentation with the streamlit APi.
+
+In order to view the financial dashboard locally you have to run all the following scripts: ingest-tweets-stocks.py, consumer-stock-graph.py, consumer-stock-clean-polarity.py, financial_dashboard.py
 
 The results are presented in the notebooks and also in the slides of the presentation. 
 
